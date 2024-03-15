@@ -1,10 +1,14 @@
 #!/bin/bash
 
-# read the name
+# print
 echo "Enter your name: "
-read -r name 
 
+# read and save to name
+read name 
+
+# same thing
 echo "Enter your waifu's name: "
-read -r waifu 
+read waifu 
 
+# print with escape sequence
 echo -e "\nHello $name, I am your $waifu.\nYou are so cool you know <3."
