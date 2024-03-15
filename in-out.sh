@@ -7,9 +7,10 @@ echo "Enter your name: "
 # read and save to name
 read name 
 
-# same thing
 echo "Enter your waifu's name: "
-read waifu 
+
+# prevent backslashes from acting as escape characters.
+read -r waifu 
 
 # print with escape sequence
 echo -e "\nHello $name, I am your $waifu.\nYou are so cool you know <3."
