@@ -1,4 +1,5 @@
 #!/bin/bash
+# tell the system which shell to use 
 
 # print
 echo "Enter your name: "
