@@ -15,7 +15,5 @@ read -r waifu
 # print with escape sequence
 echo -e "\nHello $name, I am your $waifu.\nYou are so cool you know <3."
 
-
-
 # run command and print its output
 echo -e "\nIf you run 'ls .': " `ls .`
