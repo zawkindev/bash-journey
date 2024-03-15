@@ -4,7 +4,7 @@
 
 # append to file
 echo "appending..."
-echo "Good bye world" >> bye.txt # this appends text to end of by.txt 
+echo "Good bye world" >> bye.txt # this appends text to end of bye.txt 
 
 #read from file
 while read -r line; do
