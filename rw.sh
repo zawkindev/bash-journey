@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Reading and Writing Files
+# Reading & Writing Files
 
 # append to file
 echo "appending..."
