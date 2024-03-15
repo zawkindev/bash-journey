@@ -4,5 +4,5 @@ You can see the files and learn from them. Feel free to type them in the termina
 
 Executing:
 ```    
-sh filename.sh  // or bash filename.sh
+sh filename.sh  # or bash filename.sh
 ```
