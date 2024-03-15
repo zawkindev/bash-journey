@@ -16,4 +16,23 @@ read -r waifu
 echo -e "\nHello $name, I am your $waifu.\nYou are so cool you know <3."
 
 # run command and print its output
-echo -e "\nIf you run 'ls .': " `ls .`
+echo -e "\nIf you run 'ls .': " `ls .` "\n"
+
+
+
+# runnig code:
+
+# [bash-journey]$ sh io.sh
+# Enter your name: 
+# zawkin
+# Enter your waifu's name: 
+# asuna
+#
+# Hello zawkin, I am your asuna.
+# You are so cool you know <3.
+#
+# If you run 'ls .':  io.sh README.md 
+#
+# [bash-journey]$ 
+
+
